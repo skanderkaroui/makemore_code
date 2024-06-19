@@ -7,7 +7,7 @@ Here's the YouTube link for anyone interested: [Andrej Karpathy's YouTube series
 
 ## Project Structure
 
-- [***makemore_1.ipynb***](https://github.com/skanderkaroui/makemore_code/blob/main/makemore_1.ipynb): This notebook contains the initial implementation of a bigram character-level language model. Here, I explore the fundamental concepts and set the stage for more complex models in subsequent notebooks.
+- ***makemore_1.ipynb***: This notebook contains the initial implementation of a bigram character-level language model. Here, I explore the fundamental concepts and set the stage for more complex models in subsequent notebooks.
 
 ## Getting Started
 
